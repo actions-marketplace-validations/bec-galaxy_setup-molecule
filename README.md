@@ -2,6 +2,8 @@
 
 # setup-molecule
 
+[![Test](https://github.com/bec-galaxy/setup-molecule/actions/workflows/test.yml/badge.svg)](https://github.com/bec-galaxy/setup-molecule/actions/workflows/test.yml)
+
 This action provides the following functionality for GitHub Actions users:
 
 - Installing Python.
