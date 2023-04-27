@@ -20,4 +20,4 @@ runs:
       shell: bash
 branding:
   icon: "code"
-  color: "yellow"
+  color: "white"
