@@ -4,7 +4,7 @@
 
 This action provides the following functionality for GitHub Actions users:
 
-- Installing Python
+- Installing Python.
 - Installing the latest version of Molecule with Docker and Lint.
 - Caching the installed packages.
 
